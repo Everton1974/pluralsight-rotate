@@ -2,7 +2,7 @@
   "name": "pluralsight-rotate",
   "description": "a simple element rotate library",
   "main": "rotate.js",
-  "version":"0.0.2",
+  "version":"0.0.3",
   "keywords": [
     "rotate"
   ],
